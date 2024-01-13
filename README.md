@@ -1,28 +1,4 @@
-# [GrapesJS](http://grapesjs.com)
-
-[![Build Status](https://github.com/GrapesJS/grapesjs/actions/workflows/build.yml/badge.svg)](https://github.com/GrapesJS/grapesjs/actions)
-[![Chat](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/QAbgGXq)
-[![CDNJS](https://img.shields.io/cdnjs/v/grapesjs.svg)](https://cdnjs.com/libraries/grapesjs)
-[![npm](https://img.shields.io/npm/v/grapesjs.svg)](https://www.npmjs.com/package/grapesjs)
-
-
-<p align="center"><img src="http://grapesjs.com/img/grapesjs-front-page-m.jpg" alt="GrapesJS" width="500" align="center"/></p>
-
-
-GrapesJS is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a [CMS] to speed up the creation of dynamic templates. To better understand this concept check the image below
-
-<br/>
-<p align="center"><img src="http://grapesjs.com/img/gjs-concept.png" alt="GrapesJS - Style Manager" height="400" align="center"/></p>
-<br/>
-
-Generally any 'template system', that you'd find in various applications like CMS, is composed by the **structure** (HTML), **style** (CSS) and **variables**, which are then replaced with other templates and contents on server-side and rendered on client.
-
-This demos show examples of what is possible to achieve:<br/>
-Webpage Demo - http://grapesjs.com/demo.html<br/>
-Newsletter Demo - http://grapesjs.com/demo-newsletter-editor.html<br/>
-
-
-
+# [Website Builder](http://ajmalk.com)
 
 
 ## Table of contents
@@ -106,8 +82,8 @@ For a more practical example I'd suggest looking up the code inside this demo: h
 Clone the repository and install all the necessary dependencies (`yarn` is highly recommended)
 
 ```sh
-$ git clone https://github.com/GrapesJS/grapesjs.git
-$ cd grapesjs
+$ git clone https://github.com/aiwizzard/website-builder.git
+$ cd website-builder
 $ yarn
 ```
 
